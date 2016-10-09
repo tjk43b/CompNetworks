@@ -1,2 +1,2 @@
 # CompNetworks
-Computer Networks Project with Myself, and Tyler Kaufmann
+Computer Networks Project with Myself, and Tyler Kaufman
